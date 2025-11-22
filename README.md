@@ -1,5 +1,7 @@
 # 🎬 GNN Sentiment Analysis
 
+Deployment link: https://budf93-movie-sentiment-analysis.streamlit.app/
+
 A Graph Neural Network (GNN) project for sentiment analysis on IMDB movie reviews. Unlike traditional NLP models that treat text as a sequence, this project treats text as a **graph structure**, connecting words based on proximity to capture contextual relationships.
 
 The project includes a complete pipeline: **Data Preprocessing → GNN Training → Interactive Web Deployment**.
